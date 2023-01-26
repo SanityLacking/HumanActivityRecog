@@ -5,7 +5,7 @@ Repository storing work toward detecting human activity states. Includes several
 
 ## Human Activity Recognition (HAR)
 HAR focuses on detecting the probable activity that a human is performing from either a static image or a set of images in squence.<br>
-<br
+<br>
 A HAR application is commonly divided into three stages:<br>
 <ol>
 <li>Detection of the human object</li>
